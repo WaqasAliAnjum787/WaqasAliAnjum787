@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waqas Ali Anjum</h1>
 <h3 align="center">A passionate frontend developer from Pakistan. Working on Android and Flutter.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasalianjum787&label=Profile%20views&color=0e75b6&style=flat" alt="waqasalianjum787" /> </p>
+<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?waqasalianjum787=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasalianjum787" alt="waqasalianjum787" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?waqasalianjum787=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/waqas_ali_anjum" target="blank"><img src="https://img.shields.io/twitter/follow/waqas_ali_anjum?logo=twitter&style=for-the-badge" alt="waqas_ali_anjum" /></a> </p>
 
