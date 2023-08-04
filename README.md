@@ -3,7 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasalianjum787" alt="waqasalianjum787" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/waqas_ali_anjum" target="blank"><img src="https://img.shields.io/twitter/follow/waqas_ali_anjum?logo=twitter&style=for-the-badge" alt="waqas_ali_anjum" /></a> </p>
 
