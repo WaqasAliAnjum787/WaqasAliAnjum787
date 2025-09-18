@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Waqas Ali Anjum</h1>
-<h3 align="center">A passionate frontend developer from Pakistan. Working on Android and Flutter.</h3>
+<h3 align="center">A Full Stack Mobile Application Engineer — specializing in Flutter, Firebase, Node.js, Django, and Android.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/waqas_ali_anjum" target="blank"><img src="https://img.shields.io/twitter/follow/waqas_ali_anjum?logo=twitter&style=for-the-badge" alt="waqas_ali_anjum" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter but i have also command on Android**
+- 🔭 I’m currently working on **Flutter and Android, with strong backend expertise in Node.js and Django**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **advanced Flutter and scalable backend systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaqasAliAnjum787/](https://github.com/WaqasAliAnjum787/)
 
-- 💬 Ask me about **Android, Flutter , Java, Dart and C#**
+- 💬 Ask me about **Flutter, Android, Firebase, Node.js, Django, Java, Dart, and C#**
 
 - 📫 How to reach me **waqasalianjum787@gmail.com**
 
