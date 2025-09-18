@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Waqas Ali Anjum</h1>
-<h3 align="center">A Full Stack Mobile Application Engineer — specializing in Flutter, Firebase, Node.js, Django, and Android.</h3>
+<h3 align="center">A Full Stack Mobile Application Engineer from Pakistan — specializing in Flutter, Firebase, Node.js, Django, and Android.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waqasalianjum787&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"> 
+  <a href="https://twitter.com/waqas_ali_anjum" target="blank">
+    <img src="https://img.shields.io/twitter/follow/waqas_ali_anjum?logo=twitter&style=for-the-badge" alt="waqas_ali_anjum" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/waqas_ali_anjum" target="blank"><img src="https://img.shields.io/twitter/follow/waqas_ali_anjum?logo=twitter&style=for-the-badge" alt="waqas_ali_anjum" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter and Android, with strong backend expertise in Node.js and Django**
-
-- 🌱 I’m currently learning **advanced Flutter and scalable backend systems**
-
-- 👨‍💻 All of my projects are available at [https://github.com/WaqasAliAnjum787/](https://github.com/WaqasAliAnjum787/)
-
-- 💬 Ask me about **Flutter, Android, Firebase, Node.js, Django, Java, Dart, and C#**
-
-- 📫 How to reach me **waqasalianjum787@gmail.com**
+- 🔭 I’m currently working on **Flutter and Android, with strong backend expertise in Node.js and Django**  
+- 🌱 I’m currently learning **advanced Flutter and scalable backend systems**  
+- 👨‍💻 All of my projects are available at [https://github.com/WaqasAliAnjum787/](https://github.com/WaqasAliAnjum787/)  
+- 💬 Ask me about **Flutter, Android, Firebase, Node.js, Django, Java, Dart, and C#**  
+- 📫 How to reach me **waqasalianjum787@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/waqas_ali_anjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqas_ali_anjum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/waqasalianjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqasalianjum" height="30" width="40" /></a>
+<a href="https://twitter.com/waqas_ali_anjum" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqas_ali_anjum" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/waqasalianjum" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqasalianjum" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,7 +56,10 @@
   </a> 
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasalianjum787&show_icons=true&locale=en&layout=compact" alt="waqasalianjum787" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasalianjum787&show_icons=true&locale=en&layout=compact" alt="waqasalianjum787" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasalianjum787&show_icons=true&locale=en" alt="waqasalianjum787" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasalianjum787&show_icons=true&locale=en" alt="waqasalianjum787" />
+</p>
